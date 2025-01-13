@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **Internship**
 
-- 👨‍💻 All of my projects are available at [My Github Profile](My Github Profile)
+- 👨‍💻 All of my projects are available at [My Github Profile]
 
 - 📫 How to reach me **dineshmkcekrr@gmail.com**
 
