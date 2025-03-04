@@ -3,8 +3,12 @@
 
 🎓 Final-year B.Tech IT student at M.Kumarasamy College of Engineering (MKCE), Karur.
 
+---
+
 ### 🔢 Visitor Count  
 ![Visitor Count](https://komarev.com/ghpvc/?username=Dineshkumar245&color=green)
+
+---
 
 ### 🚀 About Me:
 - 🔭 I’m currently working on **Full-Stack Web Development & AI Projects**.  
@@ -34,19 +38,48 @@
 
 ---
 
-### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dineshkumar-k-8a248825a)  
-📧 Email: **dineshmkcekrr@gmail.com**  
+### 🎭 GitHub Profile Trophy 🏆  
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Dineshkumar245&theme=darkhub&no-bg=true&margin-w=15&margin-h=15)
 
 ---
 
-### 📊 GitHub Stats:
+### 🔥 GitHub Streak Stats  
+![GitHub Streak](https://streak-stats.demolab.com?user=Dineshkumar245&theme=dark&hide_border=true&border_radius=5)
+
+---
+
+### 📊 GitHub Stats  
 ![Dineshkumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dineshkumar245&show_icons=true&theme=dark)  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dineshkumar245&layout=compact&theme=dark)
 
 ---
 
-### 🐍 Watch Snake Eating My Contributions:
-![Snake animation](https://raw.githubusercontent.com/Dineshkumar245/Dineshkumar245/output/github-contribution-grid-snake.svg)
+### 🌍 GitHub Contribution Globe 🗺  
+![GitHub Globe](https://github.com/Dineshkumar245/Dineshkumar245/blob/main/github-globe.gif)
 
+🔹 **Generate Your Own**: [GitHub Globe](https://github.com/antonkomarev/github-profile-views-counter#profile-views-counter)
 
+---
+
+### 🚀 GitHub Skyline (3D Contribution Graph)  
+🌐 **View My Skyline**: [https://skyline.github.com/Dineshkumar245](https://skyline.github.com/Dineshkumar245)
+
+---
+
+### 📈 GitHub Contribution Graph  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dineshkumar245&theme=github-dark)
+
+---
+
+### 🐍 Snake Game Animation 🐍  
+![GitHub Snake Animation](https://github.com/Dineshkumar245/Dineshkumar245/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🌐 Connect with me:  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dineshkumar-k-8a248825a)  
+📧 Email: **dineshmkcekrr@gmail.com**  
+
+---
+
+🔥 **Thanks for visiting!** 🚀 Keep coding and stay awesome! 😎  
