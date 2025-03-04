@@ -35,7 +35,7 @@
 ---
 
 ### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dineshkumar)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dineshkumar-k-8a248825a)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/dineshkumar)
 
 ---
@@ -47,5 +47,5 @@
 ---
 
 ### 🐍 Watch Snake Eating My Contributions:
-![Snake animation](https://github.com/dineshkumar/dineshkumar/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Dineshkumar245/Dineshkumar245/blob/output/github-contribution-grid-snake.svg)
 
