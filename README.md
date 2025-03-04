@@ -47,5 +47,6 @@
 ---
 
 ### 🐍 Watch Snake Eating My Contributions:
-![Snake animation](https://github.com/Dineshkumar245/Dineshkumar245/blob/main/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Dineshkumar245/Dineshkumar245/output/github-contribution-grid-snake.svg)
+
 
