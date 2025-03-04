@@ -37,13 +37,12 @@
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dineshkumar)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/dineshkumar)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/dineshkumar)
 
 ---
 
 ### 📊 GitHub Stats:
-![Dineshkumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dineshkumar&show_icons=true&theme=dark)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dineshkumar&layout=compact&theme=dark)
+![Dineshkumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dineshkumar245&show_icons=true&theme=dark)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dineshkumar245&layout=compact&theme=dark)
 
 ---
 
