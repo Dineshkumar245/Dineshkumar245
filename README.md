@@ -4,7 +4,7 @@
 🎓 Final-year B.Tech IT student at M.Kumarasamy College of Engineering (MKCE), Karur.
 
 ### 🔢 Visitor Count  
-![Visitor Count](https://komarev.com/ghpvc/?username=dineshkumar&color=green)
+![Visitor Count](https://komarev.com/ghpvc/?username=Dineshkumar245&color=green)
 
 ### 🚀 About Me:
 - 🔭 I’m currently working on **Full-Stack Web Development & AI Projects**.  
@@ -35,8 +35,8 @@
 ---
 
 ### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dineshkumar-k-8a248825a)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/dineshkumar)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dineshkumar-k-8a248825a)  
+📧 Email: **dineshmkcekrr@gmail.com**  
 
 ---
 
@@ -48,4 +48,3 @@
 
 ### 🐍 Watch Snake Eating My Contributions:
 ![Snake animation](https://github.com/Dineshkumar245/Dineshkumar245/blob/output/github-contribution-grid-snake.svg)
-
