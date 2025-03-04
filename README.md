@@ -54,11 +54,6 @@
 
 ---
 
-### 🐍 Snake Game Animation 🐍  
-![GitHub Snake Animation](https://github.com/Dineshkumar245/Dineshkumar245/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### 🌐 Connect with me:  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dineshkumar-k-8a248825a)  
 📧 Email: **dineshmkcekrr@gmail.com**  
