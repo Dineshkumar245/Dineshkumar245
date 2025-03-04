@@ -43,26 +43,9 @@
 
 ---
 
-### 🔥 GitHub Streak Stats  
-![GitHub Streak](https://streak-stats.demolab.com?user=Dineshkumar245&theme=dark&hide_border=true&border_radius=5)
-
----
-
 ### 📊 GitHub Stats  
 ![Dineshkumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dineshkumar245&show_icons=true&theme=dark)  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dineshkumar245&layout=compact&theme=dark)
-
----
-
-### 🌍 GitHub Contribution Globe 🗺  
-![GitHub Globe](https://github.com/Dineshkumar245/Dineshkumar245/blob/main/github-globe.gif)
-
-🔹 **Generate Your Own**: [GitHub Globe](https://github.com/antonkomarev/github-profile-views-counter#profile-views-counter)
-
----
-
-### 🚀 GitHub Skyline (3D Contribution Graph)  
-🌐 **View My Skyline**: [https://skyline.github.com/Dineshkumar245](https://skyline.github.com/Dineshkumar245)
 
 ---
 
