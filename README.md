@@ -12,7 +12,7 @@
 
 ### 🚀 About Me:
 - 🔭 I’m currently working on **Full-Stack Web Development & AI Projects**.  
-- 🌱 I’m learning **MERN Stack & Advanced Java**.  
+- 🌱 I’m learning **MERN Stack**.  
 - 💼 Looking for **Internship & Job Opportunities**.  
 - 📫 Reach me at **dineshmkcekrr@gmail.com**.  
 - 💡 Fun fact: **"Debugging is like being a detective in a crime movie where you are also the murderer!"**  
