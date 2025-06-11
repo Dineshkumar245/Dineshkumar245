@@ -5,6 +5,7 @@
 ### 🔢 Visitor Count 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Dineshkumar245&color=green) 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshkumar245&label=Profile%20views&color=0e75b6&style=flat" alt="dineshkumar245" /> </p>
 
 # 💫 About Me
 🔭 I’m currently working on Full-Stack Web Development & AI Projects  
