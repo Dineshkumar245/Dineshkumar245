@@ -1,8 +1,9 @@
-# Hi there 👋! 
+# Hi there 👋!
 ## I'm Dineshkumar K. 
 🎓 Final-year B.Tech IT student at M.Kumarasamy College of Engineering (MKCE), Karur.
- 
-# 🔢 Visitor Count 
+
+--- 
+### 🔢 Visitor Count 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Dineshkumar245&color=green) 
 
 # 💫 About Me
@@ -43,6 +44,13 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Dineshkumar245&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 
+### 📈 GitHub Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dineshkumar245&theme=github-dark)
+
 🔥 **Thanks for visiting!** 🚀 Keep coding and stay awesome! 😎
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=Dineshkumar245&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
