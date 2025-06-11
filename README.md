@@ -1,5 +1,4 @@
-# Hi there 👋!
-## I'm Dineshkumar K. 
+# Hi there 👋! I'm Dineshkumar K. 
 🎓 Final-year B.Tech IT student at M.Kumarasamy College of Engineering (MKCE), Karur.
 
 ### 🔢 Visitor Count 
