@@ -1,8 +1,10 @@
 # Hi 👋, I'm Dineshkumar K
 🎓 Final-year B.Tech IT student at M.Kumarasamy College of Engineering (MKCE), Karur.
 
+
 ### 🔢 Visitor Count 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Dineshkumar245&color=green) 
+
 
 # 💫 About Me
 🔭 I’m currently working on Full-Stack Web Development & AI Projects  
