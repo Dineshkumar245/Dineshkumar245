@@ -2,9 +2,7 @@
 🎓 Final-year B.Tech IT student at M.Kumarasamy College of Engineering (MKCE), Karur.
 
 
-### 🔢 Visitor Count 
-![Visitor Count](https://komarev.com/ghpvc/?username=Dineshkumar245&color=green) 
-
+# 🔢 Visitor Count 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshkumar245&label=Profile%20views&color=0e75b6&style=flat" alt="dineshkumar245" /> </p>
 
 # 💫 About Me
@@ -35,17 +33,16 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Dineshkumar245&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dineshkumar245&theme=onedark&hide_border=false&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dineshkumar245&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Dineshkumar245&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
-
-### 📈 GitHub Contribution Graph
+# 📈 GitHub Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dineshkumar245&theme=github-dark)
 
 🔥 **Thanks for visiting!** 🚀 Keep coding and stay awesome! 😎
