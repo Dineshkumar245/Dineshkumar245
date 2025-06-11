@@ -45,4 +45,11 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dineshkumar245&theme=github-dark)
 
 🔥 **Thanks for visiting!** 🚀 Keep coding and stay awesome! 😎
+<h3 align="left">Watch snake eating my github contributions:</h3>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Dineshkumar245/Dineshkumar245/output/snake.svg" alt="Snake animation" />
 
