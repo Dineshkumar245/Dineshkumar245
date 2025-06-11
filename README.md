@@ -1,49 +1,9 @@
 # Hi there 👋! 
 ## I'm Dineshkumar K. 
 🎓 Final-year B.Tech IT student at M.Kumarasamy College of Engineering (MKCE), Karur.
-
---- 
-### 🔢 Visitor Count 
+ 
+# 🔢 Visitor Count 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Dineshkumar245&color=green) 
-
----
-### 🚀 About Me: 
-- 🔭 I’m currently working on **Full-Stack Web Development & AI Projects**.
-- 🌱 I’m learning **MERN Stack**.
-- 💼 Looking for **Internship & Job Opportunities**.
-- 📫 Reach me at **dineshmkcekrr@gmail.com**.
-- 💡 Fun fact: **"Debugging is like being a detective in a crime movie where you are also the murderer!"**
-
----
-
----
- 
-### 🛠 Tools:
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva)
-
----
-### 🎭 GitHub Profile Trophy 🏆
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Dineshkumar245&theme=darkhub&no-bg=true&margin-w=15&margin-h=15)
- 
----
-### 📊 GitHub Stats
-![Dineshkumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dineshkumar245&show_icons=true&theme=dark)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dineshkumar245&layout=compact&theme=dark)
-
----
-### 📈 GitHub Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dineshkumar245&theme=github-dark)
-
----
-### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dineshkumar-k-8a248825a)
-📧 Email: **dineshmkcekrr@gmail.com**
----
-
-🔥 **Thanks for visiting!** 🚀 Keep coding and stay awesome! 😎
-
 
 # 💫 About Me
 🔭 I’m currently working on Full-Stack Web Development & AI Projects  
@@ -82,7 +42,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Dineshkumar245&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Dineshkumar245&icon=0&color=0)](https://visitcount.itsvg.in)
+
+🔥 **Thanks for visiting!** 🚀 Keep coding and stay awesome! 😎
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
